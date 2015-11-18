@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = ansible_gofer
+omit = ansible_gofer/openstack/*
+
+[report]
+ignore_errors = True
